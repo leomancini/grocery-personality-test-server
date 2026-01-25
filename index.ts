@@ -9,7 +9,7 @@ import { z } from "zod";
 dotenv.config();
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3119;
 
 app.use(cors({
   origin: true,
