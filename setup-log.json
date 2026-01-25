@@ -1,9 +1,0 @@
-{
-  "service_id": "grocery-personality-test-server",
-  "service_name": "Grocery Personality Test Server",
-  "domain": "https://grocery-personality-test-server.noshado.ws",
-  "host": "localhost",
-  "port": "3119",
-  "author": "leo",
-  "created_on": "Sun 25 Jan 2026 04:07:59 PM EST"
-}
